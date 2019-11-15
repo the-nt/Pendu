@@ -1,0 +1,13 @@
+D:\2019_2020\PPE3\Pendu\Pendu\bin\Debug\Pendu.exe.config
+D:\2019_2020\PPE3\Pendu\Pendu\bin\Debug\Pendu.exe
+D:\2019_2020\PPE3\Pendu\Pendu\bin\Debug\Pendu.pdb
+D:\2019_2020\PPE3\Pendu\Pendu\obj\Debug\Pendu.csprojAssemblyReference.cache
+D:\2019_2020\PPE3\Pendu\Pendu\obj\Debug\Pendu.csproj.CoreCompileInputs.cache
+D:\2019_2020\PPE3\Pendu\Pendu\obj\Debug\Pendu.exe
+D:\2019_2020\PPE3\Pendu\Pendu\obj\Debug\Pendu.pdb
+F:\2019_2020\PPE3\Pendu\Pendu\bin\Debug\Pendu.exe.config
+F:\2019_2020\PPE3\Pendu\Pendu\bin\Debug\Pendu.exe
+F:\2019_2020\PPE3\Pendu\Pendu\bin\Debug\Pendu.pdb
+F:\2019_2020\PPE3\Pendu\Pendu\obj\Debug\Pendu.csprojAssemblyReference.cache
+F:\2019_2020\PPE3\Pendu\Pendu\obj\Debug\Pendu.exe
+F:\2019_2020\PPE3\Pendu\Pendu\obj\Debug\Pendu.pdb
